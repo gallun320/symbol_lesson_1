@@ -1,0 +1,16 @@
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\bin\Debug\netcoreapp2.2\appsettings.json
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\bin\Debug\netcoreapp2.2\rest-api-lesson-1.deps.json
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\bin\Debug\netcoreapp2.2\rest-api-lesson-1.runtimeconfig.json
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\bin\Debug\netcoreapp2.2\rest-api-lesson-1.runtimeconfig.dev.json
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\bin\Debug\netcoreapp2.2\rest-api-lesson-1.dll
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\obj\Debug\netcoreapp2.2\rest-api-lesson-1.csprojAssemblyReference.cache
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\obj\Debug\netcoreapp2.2\rest-api-lesson-1.RazorAssemblyInfo.cache
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\obj\Debug\netcoreapp2.2\rest-api-lesson-1.RazorAssemblyInfo.cs
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\obj\Debug\netcoreapp2.2\rest-api-lesson-1.AssemblyInfoInputs.cache
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\obj\Debug\netcoreapp2.2\rest-api-lesson-1.AssemblyInfo.cs
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\obj\Debug\netcoreapp2.2\rest-api-lesson-1.RazorTargetAssemblyInfo.cache
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\bin\Debug\netcoreapp2.2\rest-api-lesson-1.pdb
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\obj\Debug\netcoreapp2.2\rest-api-lesson-1.dll
+E:\activity\work\symbol\RestApiLesson1\rest-api-lesson-1\obj\Debug\netcoreapp2.2\rest-api-lesson-1.pdb
